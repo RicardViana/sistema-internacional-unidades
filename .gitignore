@@ -1,3 +1,10 @@
+# Ignorar arquivos e pasta
+*
+!*.py
+!.gitignore
+!README.md
+!*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
